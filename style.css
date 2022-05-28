@@ -1,0 +1,192 @@
+body{
+    background: rgb(220, 241, 215);
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    color: rgb(25, 105, 14);
+    font-family: 'Open Sans', sans-serif;
+    line-height: 2;
+}
+nav{
+    background: rgb(177, 233, 153);
+    height: 2rem;
+    padding: 1rem;
+    text-align: right;
+    padding-right: 2rem;
+}
+li{
+    list-style: none;
+}
+textarea{
+    outline: none;
+    border: none;
+    width: 100%;
+}
+hr{
+    outline: none;
+    border: 1rem grey dotted;
+    width: 40%;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    font-size: 2rem;
+}
+.profile{
+    width: 15rem;
+    margin-top: 10rem;
+}
+.nav-items{
+    margin-left: 3rem;
+    text-decoration: none;
+}
+.name{
+    margin-top: 5rem;
+    font-size: 2.5rem;
+    font-family: 'Roboto', sans-serif;
+}
+.small-img{
+    width: 8rem;
+}
+.about-me{
+    height: 100vh;
+}
+.about{
+    width: 30%;
+    margin: 5rem auto;
+}
+.goal{
+    width: 30%;
+    margin: 5rem auto;
+}
+footer{
+    background: rgb(124, 189, 96);
+    margin-bottom: 0;
+}
+.edu{
+    width: 30%;
+    margin: 5rem auto;
+}
+.exp{
+    width: 30%;
+    margin: 5rem auto;
+}
+.hobbies{
+    width: 30%;
+    margin: 5rem auto;
+}
+.headers{
+    font-size: 3rem;
+}
+
+/* CONTACT PAGE */
+.contact-header{
+    margin: 3rem;
+}
+.form-contact{
+    background: rgb(167, 238, 136);
+    width: 40%;
+    margin: 3rem auto;
+    height: 60vh;
+    padding: 2rem;
+    text-align: left;
+    text-transform: uppercase;
+    border-radius: 1rem;
+    box-shadow: 10px 10px 16px -6px rgba(7,105,85,0.75);
+-webkit-box-shadow: 10px 10px 16px -6px rgba(7,105,85,0.75);
+-moz-box-shadow: 10px 10px 16px -6px rgba(7,105,85,0.75);
+}
+.input-items{
+    outline: none;
+    border: 0;
+    width: 100%;
+    height: 3rem;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    background: rgb(200, 218, 171);
+}
+.input-items-1{
+    outline: none;
+    border: 0;
+    width: 100%;
+    height: 1.3rem;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    background: rgb(200, 218, 171);
+}
+
+.select-items{
+    outline: none;
+    border: 0;
+    width: 60%;
+    height: 3rem;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    background: rgb(200, 218, 171);
+}
+
+/* LOGIN PAGE */
+.login-header{
+    margin-top: 5rem;
+}
+.form-contact-1{
+    background: rgb(167, 238, 136);
+    width: 40%;
+    margin: 3rem auto;
+    height: 30vh;
+    padding: 2rem;
+    text-align: left;
+    text-transform: uppercase;
+    border-radius: 1rem;
+    box-shadow: 10px 10px 16px -6px rgba(7,105,85,0.75);
+-webkit-box-shadow: 10px 10px 16px -6px rgba(7,105,85,0.75);
+-moz-box-shadow: 10px 10px 16px -6px rgba(7,105,85,0.75);
+}
+.buttons{
+    text-align: center;
+    margin-top: 0.7rem;
+}
+.btn{
+    outline: none;
+    border: none;
+    width: 40%;
+    height: 3rem;
+    border-radius: 2rem;
+    background: rgb(107, 185, 73);
+    color: #fff;
+    font-size: 1rem;
+}
+.calc{
+    width: 50%;
+    margin: 2rem auto;
+}
+.calc-btn{
+    width: 5rem;
+    height: 3rem;
+    font-size: 2rem;
+    border-radius: 2rem;
+    outline: none;
+    border: none;
+    background-color: rgb(57, 90, 43);
+    margin: 5px;
+    color: #fff;
+}
+#display{
+    margin-top: 10rem;
+    width: 50%;
+}
+
+/* REGISTER */
+.form-contact-2{
+    background: rgb(167, 238, 136);
+    width: 40%;
+    margin: 0 auto;
+    height: 72vh;
+    padding: 2rem;
+    text-align: left;
+    text-transform: uppercase;
+    border-radius: 1rem;
+    font-size: 0.8rem;
+    box-shadow: 10px 10px 16px -6px rgba(7,105,85,0.75);
+-webkit-box-shadow: 10px 10px 16px -6px rgba(7,105,85,0.75);
+-moz-box-shadow: 10px 10px 16px -6px rgba(7,105,85,0.75);
+}
